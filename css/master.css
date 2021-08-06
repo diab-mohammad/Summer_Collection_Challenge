@@ -242,13 +242,13 @@ ul {
 }
 /* Small */
 @media (max-width: 768px) {
-    .product .container .info,
-    .product .container .info button{
+    .product .container .info{
         font-size: 15px;
     } 
-   .product .container .info button {
-    width: 90%;
-    } 
+    .product .container .info button {
+        font-size: 13px;
+        width: 100%;
+    }
 }
 /* End product Section*/
 /* Start Subscribe Section*/
