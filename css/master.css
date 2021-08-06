@@ -80,7 +80,7 @@ ul {
         width: 70%;
     }
 }
-.header .logo img {
+.header .container .logo img {
     height: 50px;
 }
 /* End Header */
