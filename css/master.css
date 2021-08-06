@@ -246,6 +246,9 @@ ul {
     .product .container .info button{
         font-size: 15px;
     } 
+   .product .container .info button {
+    width: 90%;
+    } 
 }
 /* End product Section*/
 /* Start Subscribe Section*/
