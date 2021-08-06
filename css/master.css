@@ -290,7 +290,7 @@ ul {
 /* Small */
 @media (max-width: 768px) {
     .subscribe .container form {
-        width: calc(100% - 10px);
+/*         width: calc(100% - 10px); */
         height: 60px;
     }
     .subscribe .container form input:first-child {
